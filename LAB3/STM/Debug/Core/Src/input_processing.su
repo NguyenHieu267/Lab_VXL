@@ -1,0 +1,6 @@
+input_processing.c:18:5:getvalue	16	static
+input_processing.c:27:7:fsm_for_input_processing0	8	static
+input_processing.c:100:7:fsm_for_input_processing2	8	static
+input_processing.c:129:7:increase	8	static
+input_processing.c:152:7:fsm_for_input_processing1	8	static
+input_processing.c:191:7:process	8	static

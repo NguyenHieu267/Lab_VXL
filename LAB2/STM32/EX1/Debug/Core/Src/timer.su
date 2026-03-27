@@ -1,0 +1,2 @@
+timer.c:13:6:settimer	16	static
+timer.c:19:6:runtime	4	static
